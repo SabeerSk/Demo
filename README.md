@@ -1,2 +1,2 @@
 # Demo
-Learning JS
+Learning JS (JavaScript)
